@@ -1,0 +1,10 @@
+.mavi {background-color: #6bc2f1 !important}
+.mavitxt { color: #6bc2f1 !important}
+header { background: url('img/headerbg.jpg') 55% 50%/cover; }
+#f1 { background: url(./img/f1.jpg) center/cover;}
+#f2 { background: url(./img/f2.jpg) center/cover;}
+.vh-50 { height: 50vh;}
+#client1{ background: url(./img/person1.png) center/cover no-repeat; height: 20px;}
+#client2{ background: url(./img/person2.png) center/cover no-repeat; height: 20px;}
+#client3{ background: url(./img/person3.png) center/cover no-repeat; height: 20px;}
+.darkblue{ background-color: #072135}
